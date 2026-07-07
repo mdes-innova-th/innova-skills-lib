@@ -6,6 +6,19 @@
 
 ---
 
+## 📚 Documentation
+
+| Document | Purpose |
+|---|---|
+| [ARCHITECTURE.md](ARCHITECTURE.md) | System context, layers, manifest schema, data flow |
+| [SETUP.md](SETUP.md) | Install, develop, test, and maintain skills |
+| [KNOWN_ISSUES.md](KNOWN_ISSUES.md) | Verified bugs, doc/behavior gaps, and workarounds |
+| [TROUBLESHOOTING.md](TROUBLESHOOTING.md) | Common failures and how to fix them |
+| [RISKS.md](RISKS.md) | Operational and architectural risk assessment |
+| [STUDY_LOG.md](STUDY_LOG.md) | How this repo was studied and documented |
+
+---
+
 ## Architecture Overview
 
 ```
