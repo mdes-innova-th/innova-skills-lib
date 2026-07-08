@@ -1,7 +1,7 @@
 {
   "manifest_version": "1.0",
-  "generated": "2026-07-06T18:35:47.757653Z",
-  "total": 295,
+  "generated": "2026-07-08T18:27:34.270544Z",
+  "total": 298,
   "categories": [
     "core",
     "ecc"
@@ -274,6 +274,29 @@
       },
       "triggers": [
         "compact-recovery"
+      ],
+      "author": "team/jit-bigboss",
+      "category": "core",
+      "tags": [
+        "core"
+      ],
+      "last_updated": "2026-05-24T00:00:00Z",
+      "manifest_version": "1.0"
+    },
+    {
+      "id": "csoc-fleet-deploy",
+      "name": "Csoc Fleet Deploy",
+      "path": "csoc-fleet-deploy",
+      "version": "2026.05.24",
+      "description": "```",
+      "runtimes": [
+        "claude"
+      ],
+      "adapter_status": {
+        "claude": "ok"
+      },
+      "triggers": [
+        "csoc-fleet-deploy"
       ],
       "author": "team/jit-bigboss",
       "category": "core",
@@ -6126,6 +6149,29 @@
       "manifest_version": "1.0"
     },
     {
+      "id": "jit-autonomous-loop",
+      "name": "jit-autonomous-loop",
+      "path": "jit-autonomous-loop",
+      "version": "2026.05.24",
+      "description": "|",
+      "runtimes": [
+        "claude"
+      ],
+      "adapter_status": {
+        "claude": "ok"
+      },
+      "triggers": [
+        "jit-autonomous-loop"
+      ],
+      "author": "team/jit-bigboss",
+      "category": "core",
+      "tags": [
+        "core"
+      ],
+      "last_updated": "2026-05-24T00:00:00Z",
+      "manifest_version": "1.0"
+    },
+    {
       "id": "jit-bootstrap",
       "name": "Jit Bootstrap",
       "path": "jit-bootstrap",
@@ -6139,6 +6185,29 @@
       },
       "triggers": [
         "jit-bootstrap"
+      ],
+      "author": "team/jit-bigboss",
+      "category": "core",
+      "tags": [
+        "core"
+      ],
+      "last_updated": "2026-05-24T00:00:00Z",
+      "manifest_version": "1.0"
+    },
+    {
+      "id": "jit-scrutinize",
+      "name": "Jit Scrutinize",
+      "path": "jit-scrutinize",
+      "version": "2026.05.24",
+      "description": "Every-30-minutes self-correcting loop for the Jit multi-agent system.",
+      "runtimes": [
+        "claude"
+      ],
+      "adapter_status": {
+        "claude": "ok"
+      },
+      "triggers": [
+        "jit-scrutinize"
       ],
       "author": "team/jit-bigboss",
       "category": "core",

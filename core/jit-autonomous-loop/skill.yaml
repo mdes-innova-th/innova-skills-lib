@@ -1,0 +1,28 @@
+id: jit-autonomous-loop
+name: jit-autonomous-loop
+version: 1.0.0
+description: |
+  Build durable, output-validated 24/7 autonomous loops on Windows: singleton enforcement,
+  pythonw-safe subprocess, cycle-based workload, JSONL health log, provider health probes,
+  and operational hygiene watchers (handoff inbox, progress tick). Proven in Jit + URL-Checker.
+author: team/jit-bigboss
+license: MIT
+category: core
+runtimes:
+  - claude
+triggers:
+  - jit-autonomous-loop
+  - /jit-autonomous-loop
+  - autonomous loop
+  - 24/7 loop
+  - singleton mutex
+env:
+  required: []
+  optional:
+    - LOOP_MUTEX
+    - LOOP_INTERVAL
+    - LOOP_LOG
+metadata:
+  source: innova-skills-lib
+  created_at: "2026-07-09T00:00:00Z"
+  updated_at: "2026-07-09T00:00:00Z"

@@ -1,7 +1,7 @@
 # Skills Index
 
-Generated: 2026-07-06  
-Total: **295** skills  
+Generated: 2026-07-08  
+Total: **298** skills  
 
 ---
 
@@ -21,6 +21,7 @@ Total: **295** skills
 | `bampenpien` | bampenpien | [core] v26.4.18-alpha.22 G-SKLL \| "บำเพ็ญเพียร — diligent practice. A guided conversation between h |
 | `bud` | bud | [core] v26.4.18-alpha.22 G-SKLL \| Create a new oracle via maw bud — yeast-colony reproduction. Use  |
 | `compact-recovery` | compact-recovery | Recover skills and state after context compaction — restores Oracle awareness |
+| `csoc-fleet-deploy` | Csoc Fleet Deploy | ``` |
 | `debug-mantra` | debug-mantra | Four-mantra debugging discipline — reproduce, trace the fail path, falsify the hypothesis, cross-ref |
 | `dig` | dig | [core] v26.4.18-alpha.22 G-SKLL \| Mine Claude Code sessions — timeline, gaps, repo attribution, ses |
 | `forward` | forward | [standard] v26.5.16 G-SKLL \| Create handoff + enter plan mode for next session. Use when user says  |
@@ -94,7 +95,9 @@ Total: **295** skills
 | `gsd-workspace` | gsd-workspace | Manage GSD workspaces — create, list, or remove isolated workspace environments |
 | `gsd-workstreams` | gsd-workstreams | Manage parallel workstreams — list, create, switch, status, progress, complete, and resume |
 | `jit` | Jit | Jit Agent คือตัวแทน AI อิสระที่ทำงานร่วมกับ BigBoss ในระบบ multi-agent-gangs สามารถสั่งการ นาย (Boss |
+| `jit-autonomous-loop` | jit-autonomous-loop | \| |
 | `jit-bootstrap` | Jit Bootstrap | ``` |
+| `jit-scrutinize` | Jit Scrutinize | Every-30-minutes self-correcting loop for the Jit multi-agent system. |
 | `learn` | learn | [core] v26.4.18-alpha.22 G-SKLL \| Explore a codebase with parallel Haiku agents — clone, read, and  |
 | `learnself` | Learnself | `/learnself` คือทักษะสำหรับระบบเรียนรู้อัตโนมัติและการส่งต่องานระหว่าง Agent ในกลุ่ม Multi-Agent Gan |
 | `management-talk` | management-talk | Rewrite engineer-to-engineer content for engineering-org leadership (VPs, directors, PMs, release ma |
