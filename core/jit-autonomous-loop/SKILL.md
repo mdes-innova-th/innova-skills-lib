@@ -284,3 +284,5 @@ python tools/handoff_inbox_watcher.py || echo "HANDOFFS PENDING"
 - Proven in `Jit/tools/handoff_inbox_watcher.py`
 - Proven in `DEV/URL-Checker/csoc_boi/auto_verify_loop.py`
 - Proven in `Jit/tools/provider_fleet.py`
+
+> **Natural /workflow-codify trigger**: If you find yourself adapting this loop pattern for a third project or a third distinct workload, run `/workflow-codify` to extract the project-specific parts into a dedicated skill so future loops can bootstrap from a spec instead of copying this file.

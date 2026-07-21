@@ -229,12 +229,14 @@ Count keyword themes in the `friction` column (operational — escalation: file 
 
 "<theme>" appeared in <N> of last 7 sessions (<session IDs>). Per parent CLAUDE.md §"Self-Evaluation Loop" — consider root-cause fix instead of another workaround.
 
-Suggested: open issue `root-cause: <theme>` or raise with Boss during next standup.
+Suggested: open issue `root-cause: <theme>`, raise with Boss during next standup, or run `/workflow-codify` if the fix reveals a reusable workflow worth institutionalizing.
 ```
 
 If no theme reaches ≥3 → skip this section silently.
 
 **Rule**: surface only. Do NOT auto-open issues or take action beyond flagging. Principle 3 (External Brain, Not Command) — Boss decides.
+
+> **Natural /workflow-codify trigger**: When a recurring pattern is confirmed and the root-cause fix has just been verified, consider codifying the recovery workflow as a skill so the organ agents can apply it autonomously next time.
 
 ### 5. Save
 

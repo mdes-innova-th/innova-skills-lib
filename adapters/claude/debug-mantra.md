@@ -73,3 +73,5 @@ Maintain a running **ledger** of every experiment in this session. Each entry: w
   - Do not declare a hypothesis correct until #4 confirms it against every prior breadcrumb.
 - If you catch yourself proposing a fix without a reliable repro, stop and return to step 1.
 - The mantra is a constraint **you** carry through the session — not advice to deliver back to the user.
+
+> **Natural /workflow-codify trigger**: If the same bug class or recovery workflow appears for the third time in the ledger, and the fix is now verified, propose `/workflow-codify` to encode the diagnostic steps as a skill so the organ agents can run them autonomously next time.

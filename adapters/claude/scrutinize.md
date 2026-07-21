@@ -63,3 +63,5 @@ Close with a one-line verdict: ship / fix-then-ship / rework / reject — with t
 - **One simpler-alternative pass is mandatory.** Even on small changes, spend one breath asking if the whole thing is necessary. Skip only if the user explicitly says "don't question scope."
 - **Don't pad with style nits when there's a structural problem.** If step 1 or step 2 surfaces a real issue, lead with it; defer nits or drop them.
 - **No flattery, no hedging.** "This is a great PR but..." adds nothing. State the finding.
+
+> **Natural /workflow-codify trigger**: If the review exposes a systemic risk whose fix follows a repeatable pattern (e.g., "every root cleanup must preserve load-bearing imports"), propose `/workflow-codify` to turn the remediation workflow into a reusable skill. Do this only after the immediate fix is verified and does not block the current change.
